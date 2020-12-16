@@ -5,3 +5,4 @@ sample git test 1
 /git commit
 /git rm
 /git status
+/git diff
