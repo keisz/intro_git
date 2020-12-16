@@ -1,2 +1,6 @@
 sample git test 1
 基本的なワークフローを学びます
+/git add
+/git status
+/git commit
+
